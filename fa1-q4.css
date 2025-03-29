@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: #97b5e6;
+    text-align: center;
+}
+
+.reason {
+	max-width: 50em;
+    margin-bottom: 50px;
+	margin: 25px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 25px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+	
+}
+
+.signup {
+    max-width: 25em;
+    margin: 20px auto;
+    padding: 35px;
+    background: white;
+    border-radius: 25px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.signup label {
+	font-weight: bold;
+}
+
+.group {
+	margin-bottom: 15px;
